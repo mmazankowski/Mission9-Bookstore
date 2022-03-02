@@ -1,25 +1,24 @@
 ﻿<Properties StartupConfiguration="{5CC8D51B-3BDF-4E42-9196-B8B05BA13C8D}|Mission8_Bookstore">
-  <MonoDevelop.Ide.ItemProperties.Mission8-Bookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Views/_ViewImports.cshtml">
     <Files>
       <File FileName="Controllers/HomeController.cs" Line="46" Column="17" />
-      <File FileName="Models/ViewModels/BooksViewModel.cs" Line="3" Column="14" />
-      <File FileName="Models/EFBookstoreRepository.cs" Line="17" Column="6" />
-      <File FileName="Models/iBookstoreRepository.cs" Line="3" Column="14" />
-      <File FileName="Models/Cart.cs" Line="46" Column="1" />
-      <File FileName="Startup.cs" Line="30" Column="25" />
-      <File FileName="Models/Books.cs" Line="4" Column="1" />
-      <File FileName="Views/Shared/_Layout.cshtml" Line="1" Column="1" />
-      <File FileName="Infrastructure/PaginationTagHelper.cs" Line="3" Column="14" />
-      <File FileName="Models/BookstoreContext.cs" Line="11" Column="27" />
-      <File FileName="Infrastructure/UrlExtensions.cs" Line="11" Column="30" />
+      <File FileName="Models/ViewModels/BooksViewModel.cs" />
+      <File FileName="Models/EFBookstoreRepository.cs" />
+      <File FileName="Models/iBookstoreRepository.cs" />
+      <File FileName="Models/Cart.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Models/Books.cs" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Infrastructure/PaginationTagHelper.cs" />
+      <File FileName="Models/BookstoreContext.cs" />
+      <File FileName="Infrastructure/UrlExtensions.cs" />
       <File FileName="Views/_ViewImports.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission8-Bookstore" expanded="True">
-            <Node name="Mission8-Bookstore" expanded="True">
+            <Node name="Mission8-Bookstore" expanded="True" selected="True">
               <Node name="Controllers" expanded="True" />
               <Node name="Infrastructure" expanded="True" />
               <Node name="Models" expanded="True">
@@ -31,7 +30,6 @@
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
-                <Node name="_ViewImports.cshtml" selected="True" />
               </Node>
               <Node name="wwwroot" expanded="True">
                 <Node name="lib" expanded="True">
@@ -54,6 +52,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Mission9-Bookstore PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
