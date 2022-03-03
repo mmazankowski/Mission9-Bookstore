@@ -35,6 +35,8 @@ namespace Mission9_Bookstore
 
             services.AddScoped<iBookstoreRepository, EFBookstoreRepository>();
 
+            services.AddScoped<IPurchaseRepository, EFPurchaseRepository>(); 
+
             services.AddRazorPages();
 
             services.AddDistributedMemoryCache();

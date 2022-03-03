@@ -40,8 +40,15 @@ using Mission9_Bookstore.Infrastructure;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "/Users/matthewmazankowski/Desktop/413-Mission/Mission9-Bookstore/Mission9-Bookstore/Views/_ViewImports.cshtml"
+using System.Globalization;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8419a91faf2bf57c0da149a33d7f326fdce94095", @"/Views/Shared/Components/Types/Default.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f04b776007399fb02c4cb28a75daa09bc89cd352", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"34b84aa2ac4492361cd98716f67abbcab0fa4143", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Components_Types_Default : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<string>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "Home", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -75,7 +82,7 @@ using Mission9_Bookstore.Infrastructure;
         {
             WriteLiteral("\n");
             WriteLiteral("\n<div class=\"d-grid gap-2\">\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940955313", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940955525", async() => {
                 WriteLiteral("Home");
             }
             );
@@ -111,7 +118,7 @@ using Mission9_Bookstore.Infrastructure;
 #line hidden
 #nullable disable
             WriteLiteral("        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940957763", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8419a91faf2bf57c0da149a33d7f326fdce940957975", async() => {
 #nullable restore
 #line 14 "/Users/matthewmazankowski/Desktop/413-Mission/Mission9-Bookstore/Mission9-Bookstore/Views/Shared/Components/Types/Default.cshtml"
                                                                                              Write(t);
