@@ -1,10 +1,22 @@
 ﻿<Properties StartupConfiguration="{5CC8D51B-3BDF-4E42-9196-B8B05BA13C8D}|Mission8_Bookstore">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Checkout.cshtml">
+    <Files>
+      <File FileName="Views/Checkout.cshtml" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission9-Bookstore" expanded="True">
-            <Node name="Mission9-Bookstore" expanded="True" />
+            <Node name="Mission9-Bookstore" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shop.cshtml" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Checkout.cshtml" selected="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
