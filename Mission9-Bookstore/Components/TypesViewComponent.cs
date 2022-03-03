@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Mission8_Bookstore.Models;
+using Mission9_Bookstore.Models;
 
-namespace Mission8_Bookstore.Components
+namespace Mission9_Bookstore.Components
 {
     public class TypesViewComponent : ViewComponent
     {
